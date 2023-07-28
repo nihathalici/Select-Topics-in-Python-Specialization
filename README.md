@@ -1,5 +1,4 @@
 # Select Topics in Python Specialization
-This is my repo following the specialisation courses from Coursera's Select Topics in Python Specialization by Codio.
 
 These four courses cover a wide range of topics. Learn how to create and manage Python package. Use Jupyter notebooks to visualize data with Matplotlib. The third course focuses on the basics of the Django web framework. Finally, learn how to leverage Python for natural langauge processing.
 
