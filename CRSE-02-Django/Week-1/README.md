@@ -1,5 +1,6 @@
 # Django | Week-1
 
+These assignments cover creating a basic Django project using views and templates. Learn how to style your project with Bootstrap. The module ends with uploading your project to GitHub for your portfolio and graded coding exercises.
 
 
 Solutions for the Quizzes on GitHub 
