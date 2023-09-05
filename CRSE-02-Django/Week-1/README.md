@@ -9,6 +9,13 @@ These assignments cover creating a basic Django project using views and template
 * Test status codes and URL patterns with "assertEquals"
 * Test templates with "assertTemplateUsed"
 * Test content with "assertContains
+* Add Bootstrap to an HTML document
+* Position elements using the grid system
+* Style text and elements with Bootstrap classes
+* Serve static files in Django
+* Identify the advantages of Django templates
+* Extend and override a base template
+* Use template tags to augment templates
 
 
 Solutions for the Quizzes on GitHub 
