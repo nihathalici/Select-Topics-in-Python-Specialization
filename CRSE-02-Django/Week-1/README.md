@@ -16,7 +16,12 @@ These assignments cover creating a basic Django project using views and template
 * Identify the advantages of Django templates
 * Extend and override a base template
 * Use template tags to augment templates
-
+* Create URL patterns for new templates
+* Create class-based views
+* Create a URL pattern that returns a specific view
+* Create and add a Django app to a Django project
+* Define the Model, View, Template paradigm
+* Create a Django project
 
 Solutions for the Quizzes on GitHub 
 ========================================================
