@@ -2,6 +2,12 @@
 
 These assignments cover creating a Django project with a model, views and templates. You will also learn how to manage your site with the Django Admin. Bootstrap will once again be used for styling. The module ends with uploading your project to GitHub for your portfolio and graded coding exercises.
 
+* Differentiate a local and remote repository
+* Describe the complete process of pushing content to a GitHub repo
+* Differentiate git and GitHub
+* Differentiate the database in the Django project and the testing database
+* Identify what must be imported to test a database
+* Create a testing database
 
 Solutions for the Quizzes on GitHub 
 ========================================================
