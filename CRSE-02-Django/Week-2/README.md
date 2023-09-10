@@ -8,6 +8,13 @@ These assignments cover creating a Django project with a model, views and templa
 * Differentiate the database in the Django project and the testing database
 * Identify what must be imported to test a database
 * Create a testing database
+* Properly name a unit test
+* Identify when to combine tests into a single test case
+* Iterate over the list of records from the database
+* Access specific fields from a record in a template
+* Identify the types of data compatible with the "for" template tag
+* Differentiate between "ListView" and "TemplateView"
+* Display all records in a database with a "ListView" generic class-based view
 
 Solutions for the Quizzes on GitHub 
 ========================================================
