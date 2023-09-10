@@ -15,6 +15,13 @@ These assignments cover creating a Django project with a model, views and templa
 * Identify the types of data compatible with the "for" template tag
 * Differentiate between "ListView" and "TemplateView"
 * Display all records in a database with a "ListView" generic class-based view
+* Identify the types of databases that are compatible with Django
+* Explain the purpose of the object-relational mapper (ORM)
+* Update and synchronize databases and models
+* Define Django Admin
+* Create a Django project and app
+* Create an initial database
+* Create a URL pattern that returns a specific class-based view
 
 Solutions for the Quizzes on GitHub 
 ========================================================
